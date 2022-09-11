@@ -1,5 +1,5 @@
-**Description**
-#asic website structure with basci functionalities and minimal custom features
+**Description** <br />
+Basic website structure with basci functionalities and minimal custom features
 
-**Skills Used**
-#HTML5, CSS3, jQuery
+**Skills Used** <br />
+HTML5, CSS3, jQuery
